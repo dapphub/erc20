@@ -1,1 +1,3 @@
-Minimal dapple package for ERC20 token type interface and mock implementation. For when [`dappsys`](https://github.com/nexusdev/dappsys) is overkill.
+[ERC20](https://github.com/ethereum/EIPs/issues/20) token type interface, single-contract base implementation, and factory.
+
+If you want upgradeable tokens, see [`ds-tokens`](https://github.com/nexusdev/ds-tokens).
