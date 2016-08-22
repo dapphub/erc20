@@ -8,7 +8,6 @@ contract ERC20Tester is Tester, Debug {
     function doTransferFrom(address from, address to, uint amount)
         returns (bool)
     {
-        logs("in doTransferFrom");
         return ERC20(_t).transferFrom(from, to, amount);
     }
 
