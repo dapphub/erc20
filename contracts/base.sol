@@ -1,3 +1,4 @@
+pragma solidity ^0.4.0;
 // Flat file implementation of `dappsys/token/base.sol::DSTokenBase`
 
 // Everything throws instead of returning false on failure.

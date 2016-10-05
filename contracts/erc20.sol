@@ -1,3 +1,4 @@
+pragma solidity ^0.4.0;
 // Token standard API
 // https://github.com/ethereum/EIPs/issues/20
 contract ERC20Constant {

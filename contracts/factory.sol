@@ -1,3 +1,4 @@
+pragma solidity ^0.4.0;
 import 'base.sol';
 
 contract ERC20BaseFactory {
