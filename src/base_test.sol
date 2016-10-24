@@ -1,3 +1,5 @@
+pragma solidity ^0.4.2;
+
 /*
    Copyright 2016 Nexus Development, LLC
 
@@ -13,8 +15,6 @@
    See the License for the specific language governing permissions and
    limitations under the License.
 */
-
-pragma solidity ^0.4.2;
 
 import 'dapple/test.sol';
 import 'dapple/debug.sol';
