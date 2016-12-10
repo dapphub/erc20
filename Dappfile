@@ -1,14 +1,5 @@
-version: 0.0.2
-tags: []
+name:     erc20
+version:  0
 layout:
-  sol_sources: src
-  build_dir: build
-  packages_directory: .dapple/packages/
-dependencies: {}
-ignore: []
-name: erc20
-dapple_version: 0.8.3
-environments:
-  develop:
-    objects: {}
-    type: internal
+  build_dir:    build
+  sol_sources:  src
