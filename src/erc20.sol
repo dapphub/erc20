@@ -14,7 +14,7 @@
    limitations under the License.
 */
 
-pragma solidity ^0.4.9;
+pragma solidity ^0.4.8;
 
 // Token standard API
 // https://github.com/ethereum/EIPs/issues/20
