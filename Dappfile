@@ -1,5 +1,6 @@
-name:     erc20
-version:  0
-layout:
-  build_dir:    build
-  sol_sources:  src
+name            erc20
+description
+version         0.0.1
+
+author          nikolai
+license         Apache-2.0
