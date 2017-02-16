@@ -1,1 +1,2 @@
-default:; dapple test
+all:; dapp build
+test: all; dapp test
