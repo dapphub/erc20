@@ -2,3 +2,4 @@
 /build
 **/chain_db/
 *.out
+/out
